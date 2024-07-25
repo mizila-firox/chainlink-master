@@ -1,5 +1,7 @@
 # chainlink-master
-Everything Chainlink
+
+*Chainlink aims to be the "HTTP" of blockchain, providing a standardized protocol for decentralized applications (dApps) to interact with external data and services securely and efficiently.*
+
 
 [GitHub Official Repo🔮](https://github.com/smartcontractkit/chainlink) - contains everything from node binaries to smart contracts.
 
