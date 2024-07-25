@@ -24,8 +24,9 @@
 
 ### Data Feeds
 
+
 # PSA
 
-1. Don't ever say Chainkink it's a Price Feed provider, the nerds get really mad. But really, it evolved and transcended that to become the Cloud of blockchains, including price feeds 🏃🏼
+1. Don't ever say Chainlink it's a Price Feed provider, the nerds get really mad. But really, it evolved and transcended that to become the Cloud of blockchains, including price feeds 🏃🏼
 
 2. CCIP has nothing to do with the communists of China.
