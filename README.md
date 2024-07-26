@@ -31,7 +31,7 @@ Blokchains are deterministic so they can work as they do but that prohibits a tr
 
 ### Data Streams
 
-The "evolution" of Data Feeds, this is for things that need a sub-second precision and low-latency updates.
+The "evolution" of Data Feeds, this is for smart contracts that need a sub-second precision and low-latency updates.
 
 ### Data Feeds
 
