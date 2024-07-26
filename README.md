@@ -12,6 +12,11 @@
 
 # Why do we need Chainlink?
 
+Blockchains can't access external data directly due to their deterministic nature and security constraints, so oracles are used to provide a secure bridge between blockchains and external data sources.
+
+"Then why can't I just supply the data myself?" You may ask, because then you would be the single point of failure of the whole system works to avoid. That is why Chainlink exists, to bridge securily this gap and keep things decentralized.
+
+
 
 # Summary of each one of the main services provided 
 
