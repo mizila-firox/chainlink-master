@@ -25,6 +25,8 @@ Also CCIP is very important for connecting with the SWIFT system and interacting
 
 Basically this plugs the internet cable to the blockchain computer. Functions allow you to have access to anything on the internet like APIs you can call from your contract, even add secret keys to access more sensitive information.
 
+Also Chainlink Functions can be used to do any sort of offchain heavy computation.
+
 Functions for example could fetch prices not provided by the Data Feeds, but really Functions is limitless.
 
 ### Automation
@@ -38,7 +40,7 @@ You can automate your smart contracts in basicaly 3 different ways:
 
 ### VRF
 
-Blokchains are deterministic so they can work as they do but that prohibits a true random number from being generated on chain, then if for any reason you need a true random number Chainlink provides that to you by using the Verifiable Random Function offchain.
+Blokchains are deterministic so they can work the way they do but that prohibits a true random number from ever being generated on chain, so if for any reason you need a true random number Chainlink provides that for you by using the Verifiable Random Function offchain.
 
 ### Data Streams
 
