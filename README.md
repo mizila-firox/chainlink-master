@@ -23,7 +23,18 @@ Also CCIP is very important for connecting with the SWIFT system and interacting
 
 ### Functions
 
+Basically this plugs the internet cable to the blockchain computer. Functions allow you to have access to anything on the internet like APIs you can call from your contract, even add secret keys to access more sensitive information.
+
+Functions for example could fetch prices not provided by the Data Feeds, but really Functions is limitless.
+
 ### Automation
+
+You don't need to create a script to call the contract in a specified period of time or if something happens. This is neither decentralized or safe. Chainlink has a solution.
+
+You can automate your smart contracts in basicaly 3 different ways:
+  1. Time - Every X seconds do something [e.g., call this function at this address].
+  2. Events - Do something whenever a specifc event is emmited. [say event "TokenWithdraw()" was called from X address].
+  3. Custom Logic - Well, you define whenever a function gets called [the same for EOAs].
 
 ### VRF
 
